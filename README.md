@@ -1,6 +1,5 @@
-# Spring MVC Tutorial | Spring Boot | Full Course [2021]
-Spring MVC Tutorial | Spring Boot | Full Course [2021] at https://youtu.be/Ku3gsv7_bCc
+# CREATION COMPTE
+![login](https://github.com/Medy2468/student-management-system-springboot/assets/95325770/3986423c-7218-4de4-bfc0-7b9664d07fab)
 
-Blog tutorial at https://www.javaguides.net/2021/05/spring-boot-crud-tutorial.html
+# AUTHENTIFICATION
 
-Projet Spring-boot
